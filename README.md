@@ -1,6 +1,6 @@
 # CollegeWorks-ML-
 
-This has my machine learning projects and lab works, They are part my assignments and link to their report are here 
+This has my machine learning projects and lab works, they are part my assignments. The programs and data sets are available. Link to their report are down here  
 
 1)Theory-Implement Medical Diagnosis using machine learning algorithm-https://docs.google.com/document/d/15iPkszfKRINnlCtpGp5uc7q-1hhSx3PQmi39R3QYG-A/edit?usp=sharing
 
