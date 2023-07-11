@@ -10,4 +10,4 @@ This has my machine learning projects and lab works, they are part my assignment
 
 4)CONVOLUTIONAL NEURAL NETWORK - character recognition application  - https://docs.google.com/document/d/1xBQajHgyKEWBXuAZCEIy9tEYxKCXjikGMIbbHi51H5A/edit?usp=sharing
 
-5)SENTIMENTAL ANALYSIS - hotel reviews - https://docs.google.com/document/d/1GTIQNYfareg7QG6yIi-51wXiP-WYlkBQzuSS2N0U0h0/edit?usp=sharing
+5)SENTIMENT ANALYSIS - hotel reviews - https://docs.google.com/document/d/1GTIQNYfareg7QG6yIi-51wXiP-WYlkBQzuSS2N0U0h0/edit?usp=sharing
